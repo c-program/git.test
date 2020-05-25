@@ -11,6 +11,7 @@ namespace git.test
         static void Main(string[] args)
         {
             Console.WriteLine("ギットのテスト");
+            Console.WriteLine("ギット２の追加");
         }
     }
 }
