@@ -12,6 +12,8 @@ namespace git.test
         {
             Console.WriteLine("ギットのテスト");
             Console.WriteLine("ギット２の追加");
+
+            Console.WriteLine("ブランチテスト");
         }
     }
 }
